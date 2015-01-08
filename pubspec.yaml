@@ -1,0 +1,6 @@
+name: google_api_loader
+version: 0.0.1
+author: Robert Hartung
+description: A library to wrap the google api loader.
+homepage: https://www.github.com/roberthartung/google_api_loader
+documentation: https://www.github.com/roberthartung/google_api_loader
